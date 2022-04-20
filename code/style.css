@@ -49,3 +49,7 @@ body{
     aspect-ratio: 1;
     border: 1px solid black;
 }
+
+.gridElementHovered{
+    background-color: rgb(143, 71, 71);
+}
